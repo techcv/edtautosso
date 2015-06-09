@@ -1,0 +1,1 @@
+testing sso server auto config
